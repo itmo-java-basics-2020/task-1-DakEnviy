@@ -8,5 +8,4 @@ public class Task1 {
     int get42() {
         return 42;
     }
-
 }
